@@ -24,9 +24,9 @@ export const gardenReasons = [
   "Tus mensajes",
   "Tus llamadas",
   "Tu mirada",
-  "La paz que me das",
+  "La paz que me das al estar conmigo y a la distancia.",
   "Lo fuerte que eres",
-  "Lo hermosa que eres por dentro",
+  "Lo hermosa que eres por dentro y por fuera",
   "La calma que transmites",
 ];
 
